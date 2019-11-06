@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A595EBC-6019-447C-ADA0-E4778487B116}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Help_Desk.My.MyApplication</StartupObject>
+    <RootNamespace>Help_Desk</RootNamespace>
+    <AssemblyName>Help Desk</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Help Desk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Help Desk.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>help.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmEvaluar.Designer.vb">
+      <DependentUpon>frmEvaluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEvaluar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEvaluarTransp.Designer.vb">
+      <DependentUpon>frmEvaluarTransp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEvaluarTransp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.vb">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuejas.Designer.vb">
+      <DependentUpon>frmQuejas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuejas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeguimiento.Designer.vb">
+      <DependentUpon>frmSeguimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeguimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeguimientoTransp.Designer.vb">
+      <DependentUpon>frmSeguimientoTransp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeguimientoTransp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeguridad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeguridad.Designer.vb">
+      <DependentUpon>frmSeguridad.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSolicitud.Designer.vb">
+      <DependentUpon>frmSolicitud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSolicitud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSolicitudTransporte.Designer.vb">
+      <DependentUpon>frmSolicitudTransporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSolicitudTransporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmEvaluar.resx">
+      <DependentUpon>frmEvaluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEvaluarTransp.resx">
+      <DependentUpon>frmEvaluarTransp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuejas.resx">
+      <DependentUpon>frmQuejas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeguimiento.resx">
+      <DependentUpon>frmSeguimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeguimientoTransp.resx">
+      <DependentUpon>frmSeguimientoTransp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeguridad.resx">
+      <DependentUpon>frmSeguridad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSolicitud.resx">
+      <DependentUpon>frmSolicitud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSolicitudTransporte.resx">
+      <DependentUpon>frmSolicitudTransporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpDesk1.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpDesk2.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keys3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\technical-support_icon-icons.com_52812.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpDesk3.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="help.ico" />
+    <None Include="Resources\Evaluar 21.jpeg" />
+    <None Include="Resources\Carro Transp1.png" />
+    <None Include="Resources\Childish-Comments_249981.png" />
+    <Content Include="Resources\Quejas y Sugerencias 2.jpeg" />
+    <None Include="Resources\Quejas y Sugerencias 21.jpeg" />
+    <None Include="Resources\Evaluar 2.jpeg" />
+    <None Include="Resources\Documentos3.jpg" />
+    <None Include="Resources\Carro Transp.png" />
+    <None Include="Resources\carro1.png" />
+    <None Include="Resources\Car_Left_Red_26351.png" />
+    <None Include="Resources\Transporte.jpeg" />
+    <None Include="Resources\Childish-Comments_24998.png" />
+    <None Include="Resources\Buscar8.png" />
+    <None Include="Resources\Doc2.jpg" />
+    <None Include="Resources\Documentos1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

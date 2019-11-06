@@ -1,0 +1,39 @@
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\bin\Debug\Help Desk.exe.config
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSeguridad.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.Resources.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help Desk.vbproj.GenerateResource.Cache
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help Desk.xml
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\bin\Debug\Help Desk.exe
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\bin\Debug\Help Desk.pdb
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\bin\Debug\Help Desk.xml
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help Desk.exe
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help Desk.pdb
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSolicitud.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSeguimiento.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmMenu.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmEvaluar.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmQuejas.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSolicitudTransporte.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSeguimientoTransp.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help_Desk.frmEvaluarTransp.resources
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help Desk.vbproj.CoreCompileInputs.cache
+D:\Arcadio Solano\Proyectos .Net Digecoom\Help Desk\Help Desk\obj\Debug\Help Desk.vbprojAssemblyReference.cache
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\bin\Debug\Help Desk.exe.config
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\bin\Debug\Help Desk.exe
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\bin\Debug\Help Desk.pdb
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\bin\Debug\Help Desk.xml
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help Desk.vbprojAssemblyReference.cache
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmEvaluar.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmEvaluarTransp.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmMenu.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmQuejas.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSeguimiento.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSeguimientoTransp.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSeguridad.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSolicitud.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.frmSolicitudTransporte.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help_Desk.Resources.resources
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help Desk.vbproj.GenerateResource.cache
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help Desk.exe
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help Desk.xml
+C:\Users\o.reynoso\OneDrive\VB.NET\Help Desk\Help Desk\obj\Debug\Help Desk.pdb
